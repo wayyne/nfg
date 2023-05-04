@@ -9,3 +9,6 @@ For context please see:
 This software has non-standard dependencies, we recommend setting up a python virtual enviroment that satisfies the dependencies. Specificially, numpy and gdal with osgeo are required. Numpy installation is straight-forward; for osgeo installation see: https://gdal.org/api/python_bindings.html
 
 Software is provided as is, a manuscript detailing the implementation, use-cases, and modularity, along with a user-manual, is in preperation.
+
+Please cite this software if used in your work:
+  [![DOI](https://zenodo.org/badge/635895822.svg)](https://zenodo.org/badge/latestdoi/635895822)
